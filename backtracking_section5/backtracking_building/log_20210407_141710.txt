@@ -1,0 +1,10 @@
+2021-04-07 14:17:10 INFO     Start Calculation
+2021-04-07 14:17:10 INFO     DEM File: /home/maverick/OneDrive/documents/Flow-py_paper/runs/parabola/simple/parabola.asc
+2021-04-07 14:17:10 INFO     Release File: /home/maverick/OneDrive/documents/Flow-py_paper/runs/parabola/release.tif
+2021-04-07 14:17:10 INFO     Infrastructure File: /home/maverick/OneDrive/documents/Flow-py_paper/runs/parabola/simple/back_cal/building_infra.tif
+2021-04-07 14:17:10 INFO     Files read in
+2021-04-07 14:17:10 INFO     Process: Avalanche
+2021-04-07 14:17:10 INFO     Multiprocessing starts, used cores: 16
+2021-04-07 14:17:26 INFO     Calculation finished, getting results.
+2021-04-07 14:17:26 INFO     Writing Output Files
+2021-04-07 14:17:26 INFO     Calculation needed: 0:00:16 seconds

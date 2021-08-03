@@ -1,0 +1,9 @@
+2021-04-07 13:47:43 INFO     Start Calculation
+2021-04-07 13:47:43 INFO     DEM File: /home/maverick/OneDrive/documents/Flow-py_paper/runs/parabola/channel/dam/dam.asc
+2021-04-07 13:47:43 INFO     Release File: /home/maverick/OneDrive/documents/Flow-py_paper/runs/parabola/release.tif
+2021-04-07 13:47:43 INFO     Files read in
+2021-04-07 13:47:43 INFO     Process: Avalanche
+2021-04-07 13:47:43 INFO     Multiprocessing starts, used cores: 16
+2021-04-07 13:47:52 INFO     Calculation finished, getting results.
+2021-04-07 13:47:52 INFO     Writing Output Files
+2021-04-07 13:47:52 INFO     Calculation needed: 0:00:09 seconds
